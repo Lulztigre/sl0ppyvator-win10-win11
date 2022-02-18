@@ -1,5 +1,5 @@
 @echo off
-title {sl0ppyr00t} Windows-10|11 activator &cls&echo *****************{sl0ppyr00t}******************* &echo Supported products:&echo - Windows 10 | windows 11 all versions&echo.&echo.&echo *****************{sl0ppyr00t}******************* &echo Windows 10 activation...
+title {sl0ppyr00t} Windows-10 activator &cls&echo *****************{sl0ppyr00t}******************* &echo Supported products:&echo - Windows 10 all versions&echo.&echo.&echo *****************{sl0ppyr00t}******************* &echo Windows 10 activation...
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH >nul
@@ -14,12 +14,15 @@ cscript //nologo c:\windows\system32\slmgr.vbs /ipk WNMTR-4C88C-JK8YV-HQ7T2-76DF
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 2F77B-TNFGY-69QQF-B8YKP-D69TJ >nul
 echo *****************{sl0ppyr00t}******************* &echo.&echo.&set i=1
 :server
-if %i%==1 set KMS_Sev=kms.shuax.com
-if %i%==2 set KMS_Sev=NextLevel.uk.to
-if %i%==3 set KMS_Sev=GuangPeng.uk.to
-if %i%==4 set KMS_Sev=AlwaysSmile.uk.to
-if %i%==5 set KMS_Sev=kms.chinancce.com 
-if %i%==6 exit
+if %i%==1 set KMS_Sev=kms8.msguides.com
+if %i%==2 set KMS_Sev=cy2617.jios.org
+if %i%==3 set KMS_Sev=kms.srv.crsoo.com
+if %i%==4 set KMS_Sev=kms.digiboy.ir
+if %i%==5 set KMS_Sev=kms.library.hk
+if %i%==6 set KMS_Sev=kms.cangshui.net
+if %i%==7 set KMS_Sev=hq1.chinancce.com
+if %i%==8 set KMS_Sev=kms.loli.beer
+if %i%==9 exitt
 cscript //nologo c:\windows\system32\slmgr.vbs /skms %KMS_Sev% >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ato | find /i "successfully" && (echo.& echo *****************{sl0ppyr00t}******************* & echo. & choice /n /c YN /m "Do you want to restart your PC now [Y,N]?" & if errorlevel 2 exit) || (echo The connection to the server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
 shutdown.exe /r /t 00
