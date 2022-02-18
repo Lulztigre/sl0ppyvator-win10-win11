@@ -1,5 +1,5 @@
 @echo off
-title {sl0ppyr00t} Windows11 activator &cls&echo *****************{sl0ppyr00t}******************* &echo Supported products:&echo - windows 11 all versions&echo.&echo.&echo *****************{sl0ppyr00t}******************* &echo Windows 10 activation...
+title {sl0ppyr00t} Windows11 activator &cls&echo *****************{sl0ppyr00t}******************* &echo Supported products:&echo - windows 11 all versions&echo.&echo.&echo *****************{sl0ppyr00t}******************* &echo Windows 11 activation...
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk MH37W-N47XK-V7XM9-C7227-GCQG9 >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J >nul
