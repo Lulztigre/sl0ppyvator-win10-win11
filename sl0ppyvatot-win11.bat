@@ -15,11 +15,14 @@ cscript //nologo c:\windows\system32\slmgr.vbs /ipk YYVX9-NTFWV-6MDM3-9PT4T-4M68
 echo *****************{sl0ppyr00t}******************* &echo.&echo.&set i=1
 :server
 if %i%==1 set KMS_Sev=kms8.msguides.com
-if %i%==2 set KMS_Sev=NextLevel.uk.to
-if %i%==3 set KMS_Sev=GuangPeng.uk.to
-if %i%==4 set KMS_Sev=AlwaysSmile.uk.to
-if %i%==5 set KMS_Sev=s8.uk.to 
-if %i%==6 exit
+if %i%==2 set KMS_Sev=cy2617.jios.org
+if %i%==3 set KMS_Sev=kms.srv.crsoo.com
+if %i%==4 set KMS_Sev=kms.digiboy.ir
+if %i%==5 set KMS_Sev=kms.library.hk
+if %i%==6 set KMS_Sev=kms.cangshui.net
+if %i%==7 set KMS_Sev=hq1.chinancce.com
+if %i%==8 set KMS_Sev=kms.loli.beer
+if %i%==9 exit
 cscript //nologo c:\windows\system32\slmgr.vbs /skms %KMS_Sev% >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ato | find /i "successfully" && (echo.& echo *****************{sl0ppyr00t}******************* & echo. & choice /n /c YN /m "Do you want to restart your PC now [Y,N]?" & if errorlevel 2 exit) || (echo The connection to the server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
 shutdown.exe /r /t 00
