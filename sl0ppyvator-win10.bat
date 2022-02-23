@@ -1,5 +1,5 @@
 @echo off
-title {sl0ppyr00t} Windows-10 activator &cls&echo *****************{sl0ppyr00t}******************* &echo Supported products:&echo - Windows 10 all versions&echo.&echo.&echo *****************{sl0ppyr00t}******************* &echo Windows 10 activation...
+************* &echo Supported products:&echo - windows 10 all versions&echo.&echo.&echo *****************{sl0ppyr00t}******************* &echo Sl0ppyvator Activating Windows 10... &echo Please wait a few... &echo.&echo.&echo *****************{sl0ppyr00t}******************* 
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH >nul
