@@ -3,7 +3,7 @@
 * Win 11 activator 
  
 # Working on all versions 
-* but it lands as windows pro version each time... for windows 10
+* but it lands as windows pro version each time... for windows 10 (maybe fixed with the kms server list updated, but did not verify that it indeed validates on all versions of windows 10. )
 
 
 # change log 
