@@ -14,3 +14,6 @@
 
 # Todo
 * improve it for all version win 10. 
+
+# non active kms validation issue? 
+Open a ticket and i will spin a new fresh updated version, with the latest checked kms servers of the tool out. 
