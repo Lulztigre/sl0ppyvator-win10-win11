@@ -3,7 +3,6 @@
 * Win 11 activator 
  
 # Working on all versions 
-* but it lands as windows pro version each time... for windows 10 (maybe fixed with the kms server list updated, but did not verify that it indeed validates on all versions of windows 10. )
 
 
 # change log 
@@ -11,6 +10,8 @@
 * updated kms servers to validate on
 * windows11 sl0ppyvator
 * windows10 sl0ppyvator
+
+* KMS server change, fixed the issue with windows10 pro only validation...:D 
 
 # Todo
 * improve it for all version win 10. 
