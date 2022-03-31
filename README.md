@@ -12,9 +12,7 @@
 * windows10 sl0ppyvator
 
 * KMS server change, fixed the issue with windows10 pro only validation...:D 
+ 
 
-# Todo
-* improve it for all version win 10. 
-
-# non active kms validation issue? 
+# Non active kms or Validation issues? 
 Open a ticket and i will spin a new fresh updated version, with the latest checked kms servers of the tool out. 
