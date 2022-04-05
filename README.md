@@ -11,7 +11,7 @@
 * windows11 sl0ppyvator
 * windows10 sl0ppyvator
 
-* KMS server change, fixed the issue with windows10 pro only validation...:D 
+* KMS server change+ sum validation key changes, fixed the issue with windows10 pro only validation...:D 
  
 
 # Non active kms or Validation issues? 
